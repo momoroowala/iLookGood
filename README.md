@@ -10,3 +10,6 @@ Utilize CustomDataset to save pt files for data (need to expedite this process, 
 Training and Validations loops + saving model and losses
 ### predict.py
 Load model and predict on ONE photo at a time, positive attribute predictions will be outputted in console
+
+## Best Models Downloadable Here
+https://drive.google.com/drive/folders/1QrR73iES8IzjCGcLCmvu7T4mNdcmvzkt?usp=sharing
